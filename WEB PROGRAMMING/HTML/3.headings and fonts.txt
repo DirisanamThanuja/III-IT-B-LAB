@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>3</title>
+    </head>
+    <body>
+        <header>
+            <h1 style="font-family:verdana;">This is a heading</h1>
+            <h2 style="font-family:courier;">This is a subheading.</h2>
+            <p style="font-family:Italian;">
+                Ahead of the seven-member ensemble’s new album Map of the Soul: 7, which drops on Feb. 21, TIME revisited BTS’ albums released over nearly seven years, including individual mixtapes by RM, Suga and J-Hope, to identify the overlooked gems. For the purposes of this list, “underrated” songs exclude title tracks released with music videos and promoted most heavily during album releases, as well as the usual fan favorites (“Silver Spoon,” “Tomorrow,” “Anpanman,” to name a few, have had their fair share of recognition.) We’ve also included “hidden tracks,” which are only found outside the realms of Spotify and Apple Music.
+            </p>
+            <font color = "blue">
+                <i>blue color</i> 
+            </font><br>
+            <font color = "red">
+                <u>red color</u>
+            </font>
+        </header>
+    </body>
+</html>
